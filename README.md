@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dishank Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/893b7cc7-09e9-4c5f-a73f-7162f5d8a352)">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishanksingh-29&label=Profile%20views&color=0e75b6&style=flat" alt="dishanksingh-29" /> </p>
 
