@@ -12,11 +12,18 @@
 
 - 🌱 I'm currently learning AI ML.
 
-- 💬 Connect with Me on <a href="https://www.linkedin.com/in/dishanksingh29="_blank">LinkedIn</a>
+- 💬 Connect with Me on <a href="https://www.linkedin.com/in/dishanksingh29" target="_blank">LinkedIn</a>
 
 - 🤝 I'm available for freelancing.
 
 - 📫 How to reach me **dishanksingh36@gmail.com**
+
+&nbsp;
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=dishanksingh-29&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-singh09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
