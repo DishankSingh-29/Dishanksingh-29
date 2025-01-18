@@ -8,11 +8,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishanksingh-29&label=Profile%20views&color=0e75b6&style=flat" alt="dishanksingh-29" /> </p>
 
-- 🌱 I’m currently learning **BCA**
+- 🔭 I’m 2nd year student at <a>VSICS</a>, Kanpur
+
+- 🌱 I'm currently learning AI ML.
+
+- 💬 Connect with Me on <a href="https://www.linkedin.com/in/dishanksingh29="_blank">LinkedIn</a>
+
+- 🤝 I'm available for freelancing.
 
 - 📫 How to reach me **dishanksingh36@gmail.com**
-
-- ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
