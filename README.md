@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dishank Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="350" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dishanksingh-29&label=Profile%20views&color=0e75b6&style=flat" alt="dishanksingh-29" /> </p>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dishanksingh-29&label=Profile%20views&color=0e75b6&style=flat" alt="dishanksingh-29" /> </p>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 🔭 I’m 2nd year student at <a>VSICS</a>, Kanpur
 
