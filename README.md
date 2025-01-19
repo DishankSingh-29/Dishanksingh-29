@@ -1,4 +1,3 @@
-<img align="center" alt="banner" height="250" width="1100" src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif">
 <h1 align="center">Hi 👋, I'm Dishank Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
